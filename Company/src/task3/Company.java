@@ -61,7 +61,7 @@ public class Company {
         }
     }
     public void print_person_info(int id){
-    
+
         System.out.println(this.persons.get(id-1));
     }    
     

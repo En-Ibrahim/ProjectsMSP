@@ -46,8 +46,6 @@ public class Employee extends Person{
         return "Employee{" +super.toString() + " workingTime= " + workingTime + ", salary= " + salary + '}';
     }
     
-    public void print(){
-        System.out.println(toString());
-    }
+
     
 }

@@ -53,9 +53,6 @@ public class Product {
     
 
    
-    
-    public void printAllInfo(){
-            System.out.println(toString());
-    }
+
     
 }

@@ -42,9 +42,7 @@ public class Client extends Person {
         return "Client{" +super.toString() + " email= " + email + '}';
     }
     
-    public void print(){
-        System.out.println(toString());
-    }
+
     
     
 }

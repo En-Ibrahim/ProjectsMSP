@@ -51,10 +51,7 @@ public class Person {
     public String toString() {
         return  "ID= "+emID+" name= " + name + ", numPhone= " + numPhone + ", gender= " + gender ;
     }
-    
-    public void print(){
-        System.out.println(toString());
-    }
+
     
     
     
